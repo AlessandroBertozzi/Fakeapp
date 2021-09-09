@@ -55,12 +55,13 @@ img {
     flex-direction: column;
     margin-left: 20px;
     color: #363434;
+    font-size: x-small;
 
 }
 
 
 .title{
-    font-size: large;
+    font-size: medium;
     color: white;
     
 }
